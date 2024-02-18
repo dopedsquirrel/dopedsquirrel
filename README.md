@@ -10,4 +10,4 @@ As I progress, I'm reinforcing my learnings by engaging in Python projects, shar
 
 Together, let's build the future!
 
-![image]({https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white})
+<img src="{https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white}" />
