@@ -9,5 +9,3 @@ As I progress, I'm reinforcing my learnings by engaging in Python projects, shar
 📈 I document my journey on LinkedIn, hoping to inspire those on a similar path and share the experiences of juggling work, studies, and personal growth. Follow me as I explore the fascinating realm of computer science, aiming to make a significant impact through coding and collaboration.
 
 Together, let's build the future!
-
-<img src="{https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white}" />
