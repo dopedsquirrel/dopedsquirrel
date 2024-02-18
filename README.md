@@ -9,3 +9,7 @@ As I progress, I'm reinforcing my learnings by engaging in Python projects, shar
 📈 I document my journey on LinkedIn, hoping to inspire those on a similar path and share the experiences of juggling work, studies, and personal growth. Follow me as I explore the fascinating realm of computer science, aiming to make a significant impact through coding and collaboration.
 
 Together, let's build the future!
+
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+<div class="badge-base LI-profile-badge" data-locale="de_DE" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="simon-wanner-332ba92b1" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ch.linkedin.com/in/simon-wanner-332ba92b1?trk=profile-badge">Simon Wanner</a></div>
+              
